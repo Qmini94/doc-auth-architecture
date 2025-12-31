@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f6d4c7d7ab837fc6",
+        "id": "ab18da9fea94bf5a",
         "type": "tabs",
         "children": [
           {
-            "id": "d86822f578f9c62d",
+            "id": "e7e65f9ff3945ba0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_네트워크_정의_및_역사"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "01_네트워크_정의_및_역사 의 백링크"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "01_네트워크_정의_및_역사 의 나가는 링크"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "01_네트워크_정의_및_역사 의 개요"
             }
           },
           {
@@ -187,14 +194,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aca8a75eb45115a3",
+  "active": "e7e65f9ff3945ba0",
   "lastOpenFiles": [
-    "01_Auth/Hybird-JWT-Session.md",
-    "01_Auth/Auth-Architecture-Access.md",
-    "01_Auth/Auth-Architecture-Refresh.md",
-    "01_Auth/무제.canvas",
-    "무제.md",
-    "01_Auth",
-    "환영합니다!.md"
+    "02_Network/00_목차/00_목차.md",
+    "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
+    "02_Network/00_목차",
+    "02_Network/07_애플리케이션_서비스/01_DNS의_이해.md",
+    "02_Network/07_애플리케이션_서비스/04_메일_서비스.md",
+    "02_Network/07_애플리케이션_서비스/03_Cookie_TLS.md",
+    "02_Network/07_애플리케이션_서비스/02_HTTP의_이해.md",
+    "02_Network/06_TCP와_NAT/04_TELNET_SSH.md",
+    "02_Network/06_TCP와_NAT/03_NAT의_개요.md",
+    "02_Network/06_TCP와_NAT/02_TCP_통신.md",
+    "02_Network/06_TCP와_NAT/01_TCP_UDP_개요.md",
+    "02_Network/05_동적_라우팅/03_동적_라우팅-OSPF.md",
+    "02_Network/05_동적_라우팅/02_동적_라우팅_BGP_RIP.md",
+    "02_Network/05_동적_라우팅/01_동적_라우팅의_개요.md",
+    "02_Network/04_IP주소와_라우팅/04_DHCP.md",
+    "02_Network/04_IP주소와_라우팅/03_ICMP.md",
+    "02_Network/04_IP주소와_라우팅/02_라우터와_서브네팅.md",
+    "02_Network/04_IP주소와_라우팅/01_네트워크_계층의_역할과_IP의_구조.md",
+    "02_Network/03_L2_스위치/04_VLAN.md",
+    "02_Network/03_L2_스위치/무제.md",
+    "02_Network/03_L2_스위치/03_스패닝트리_프로토콜(STP).md",
+    "02_Network/03_L2_스위치/02_스위치와_ARP.md",
+    "02_Network/03_L2_스위치/01_데이터_링크_계층의_역할과_기능.md",
+    "02_Network/02_물리_계층/04_패킷덤프-와이어샤크.md",
+    "02_Network/02_물리_계층/03_UTP_케이블과_Wi-Fi.md",
+    "02_Network/02_물리_계층/02_물리계층_장비와_케이블.md",
+    "02_Network/02_물리_계층/01_물리계층의_역할과_기능.md",
+    "02_Network/07_애플리케이션_서비스",
+    "02_Network/06_TCP와_NAT",
+    "02_Network/05_동적_라우팅",
+    "02_Network/04_IP주소와_라우팅",
+    "02_Network/03_L2_스위치",
+    "02_Network/02_물리_계층",
+    "02_Network/01_네트워크_소개",
+    "02_Network",
+    "homework.zip",
+    "무제.canvas",
+    "01_Auth/무제.canvas"
   ]
 }
