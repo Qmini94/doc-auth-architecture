@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "302625054ac9b293",
+    "id": "906e2a9167662e38",
     "type": "split",
     "children": [
       {
-        "id": "35f1d19988357821",
+        "id": "5bc689813f383453",
         "type": "tabs",
         "children": [
           {
-            "id": "3771e47fdea7c61b",
+            "id": "2a5e8e1b945efbe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
+                "file": "02_Network/02_물리_계층/01_물리계층의_역할과_기능.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_네트워크_정의_및_역사"
+              "title": "01_물리계층의_역할과_기능"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "caffe77ce1608764",
+    "id": "c5db3598fb541d5a",
     "type": "split",
     "children": [
       {
-        "id": "670cb7d4564cce25",
+        "id": "2d7c54636470b0d1",
         "type": "tabs",
         "children": [
           {
-            "id": "c23d2441cff3fe4f",
+            "id": "887b30e760eb57e4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "7ac2779d72d8e7b0",
+            "id": "55b0994e611b0a2e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "c879b507e69e3f4d",
+            "id": "81357a0368a775b0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "cb74ac7aadfe1367",
+    "id": "f418a09513dcaabf",
     "type": "split",
     "children": [
       {
-        "id": "375712bfe6f9fda3",
+        "id": "d8332cb1a33b4bf4",
         "type": "tabs",
         "children": [
           {
-            "id": "14c5d920a45d7d5b",
+            "id": "253761767b825680",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
+                "file": "02_Network/02_물리_계층/01_물리계층의_역할과_기능.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01_네트워크_정의_및_역사 의 백링크"
+              "title": "01_물리계층의_역할과_기능 의 백링크"
             }
           },
           {
-            "id": "5a38289ede745f6a",
+            "id": "b5bb6a5c05690949",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
+                "file": "02_Network/02_물리_계층/01_물리계층의_역할과_기능.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "01_네트워크_정의_및_역사 의 나가는 링크"
+              "title": "01_물리계층의_역할과_기능 의 나가는 링크"
             }
           },
           {
-            "id": "6dbce06066ff5bd9",
+            "id": "4ef8aedc3172a1fc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "99fd1de8a4895b91",
+            "id": "bf3f20a4f8251e22",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,22 +151,22 @@
             }
           },
           {
-            "id": "aaddd0472ba2996f",
+            "id": "b768382b1a4ea490",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
+                "file": "02_Network/02_물리_계층/01_물리계층의_역할과_기능.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01_네트워크_정의_및_역사 의 개요"
+              "title": "01_물리계층의_역할과_기능 의 개요"
             }
           },
           {
-            "id": "610505b9c6ab8954",
+            "id": "395d98a600ae6650",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -194,15 +194,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3771e47fdea7c61b",
-  "lastOpenFiles": [
-    "01_Auth/인증 시스템 아키텍처 설계서.md",
-    "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
-    "02_Network/00_목차/00_목차.md",
-    "01_Auth/Auth-Architecture-Access.md",
-    "02_Network/02_물리_계층/03_UTP_케이블과_Wi-Fi.md",
-    "무제.base",
-    "무제 1.canvas",
-    "무제.canvas"
-  ]
+  "active": "2a5e8e1b945efbe7",
+  "lastOpenFiles": []
 }
